@@ -1,16 +1,25 @@
-## Hi there 👋
+## Research Ecosystem
 
-<!--
-**DLNicoletti/DLNicoletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```mermaid
+flowchart LR
 
-Here are some ideas to get you started:
+A[NeuroCore Framework] --> B[Invariance-055]
+B --> C[ASHI-CORE]
+C --> D[ARCHON Protocol]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A -->|theoretical structure| B
+B -->|invariance detection| C
+C -->|dynamical systems framework| D
+D -->|experimental deployment| E[E0 Engine]
+
+---
+
+### Repositories
+
+• NeuroCore → https://github.com/DLNicoletti/049200
+Europa
+https://github.com/DLNicoletti/Europa
+  
+• Invariance-055 → https://github.com/DLNicoletti/Invariance-055  
+• ASHI-CORE → https://github.com/DLNicoletti/ASHI-CORE  
+• ARCHON → https://github.com/DLNicoletti/ARCHON
