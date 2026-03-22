@@ -1,4 +1,8 @@
-STEM Computational Modeler 💻
+STEM Computational Modeler 💻    
+
+<p align="center">
+  <img src="Logos/1D2EFA7A-1731-41A1-A9FA-1239F26D47FF.gif" width="500">
+</p>
 
 ---
 
@@ -17,7 +21,26 @@ EEG • fNIRS • Signal Dynamics
 
 ---
 
-### 🌌 EUROPA
+### 🌌 ### 🌌 EUROPA
+
+Mapping raw data X → Φ(X)  
+Feature-space transformation and regime encoding  
+
+<p align="center">
+  <img src="Logos/Europa/7F09B0C8-7104-46BA-A2BC-7B7ADB487410.gif" width="500">
+</p>
+
+**Description**
+
+EUROPA defines a transformation operator Φ(X) that maps raw data into a structured latent space.
+
+- **Input:** high-entropy data  
+- **Process:** continuous geometric transformation of the feature space  
+- **Output:** structured representation of regimes  
+
+---
+
+---
 
 Mapping raw data X → Φ(X)  
 Feature-space transformation and regime encoding  
