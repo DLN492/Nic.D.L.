@@ -6,6 +6,7 @@ STEM Computational Modeler 💻
 </p>
 
 🧬 Phase transitions • Feature-space transformations • Complex systems  
+
 Applications: aerospace telemetry, bioelectrical systems, high-entropy environments   
 
 ---
