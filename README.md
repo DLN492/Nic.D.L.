@@ -21,7 +21,7 @@ EEG • fNIRS • Signal Dynamics
 
 ---
 
-### 🌌 ### 🌌 EUROPA
+### 🌌 EUROPA
 
 Mapping raw data X → Φ(X)  
 Feature-space transformation and regime encoding  
