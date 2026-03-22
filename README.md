@@ -136,3 +136,39 @@ ASHI-CORE formalizes the passage:
 
 > from continuous, bounded dynamics  
 > to discrete, structured regime encoding.
+
+---
+
+## Overview 🛡️
+
+This ecosystem explores the emergence of structure in complex systems through complementary operators:
+
+- **NeuroCore™** → functional stability in bioelectrical dynamics  
+- **EUROPA** → feature-space transformation (X → Φ(X))  
+- **ASHI-CORE** → phase transition detection via critical threshold (Kc)  
+
+Together, they define a unified approach to:
+
+- identifying stability regimes  
+- detecting structural transitions  
+- transforming high-entropy data into structured representations  
+
+---
+
+## 🔬 Research Direction
+
+Current work focuses on:
+
+- cross-domain validation (EEG, telemetry, synthetic systems)  
+- invariant detection and regime generalization  
+- scalable, reproducible computational pipelines  
+
+---
+
+## 🤝 Collaboration
+
+Open to collaborations in:
+
+- computational neuroscience  
+- aerospace / telemetry systems  
+- complex systems modeling  
