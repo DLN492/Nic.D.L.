@@ -22,7 +22,7 @@ EEG • fNIRS • Signal Dynamics
 
 ---
 
-### 🌌 EUROPA
+### 🌌 EUROPA™
 
 Mapping raw data X → Φ(X)  
 Feature-space transformation and regime encoding  
@@ -41,7 +41,7 @@ EUROPA defines a transformation operator Φ(X) that maps raw data into a structu
 
 ---
 
-### 📡 ASHI-CORE
+### 📡 ASHI-CORE™
 
 Local dispersion → global connectivity  
 Critical transition at Kc = 1.441  
@@ -51,7 +51,7 @@ Critical transition at Kc = 1.441
 
 ## 📊 Regime Transition Visualization ↓
 
-This section illustrates the operational principle of **ASHI-CORE**:  
+This section illustrates the operational principle of **ASHI-CORE™**:  
 the detection of structural regime transitions in high-entropy systems through a critical variability threshold.
 
 ---
