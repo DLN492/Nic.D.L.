@@ -139,8 +139,4 @@ ASHI-CORE formalizes the passage:
 
 ## 🔬 Research Direction
 
-Current work focuses on:
-
-- cross-domain validation (EEG, telemetry, synthetic systems)  
-- invariant detection and regime generalization  
-- scalable, reproducible computational pipelines  
+Formalization of invariant structures and regime transitions in high-entropy dynamical systems. 
