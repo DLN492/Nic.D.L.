@@ -129,9 +129,6 @@ Instead, it captures **state transitions** driven by the redistribution of varia
 - Instability → global variance coupling  
 - Transition → emergence beyond a critical structural limit.
 
----
-
-## 🧠 Summary
 
 ASHI-CORE formalizes the passage:
 
