@@ -40,13 +40,6 @@ EUROPA defines a transformation operator Φ(X) that maps raw data into a structu
 
 ---
 
----
-
-Mapping raw data X → Φ(X)  
-Feature-space transformation and regime encoding  
-
----
-
 ### 📡 ASHI-CORE
 
 Local dispersion → global connectivity  
