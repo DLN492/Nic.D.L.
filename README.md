@@ -140,3 +140,8 @@ ASHI-CORE formalizes the passage:
 ## 🔬 Research Direction
 
 Formalization of invariant structures and regime transitions in high-entropy dynamical systems. 
+
+<p align="center">
+  <img src="Logos/0CA7E5DA-553D-4284-8B95-351CA1EEB1C8.gif" width="500">
+</p>
+
