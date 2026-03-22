@@ -31,6 +31,8 @@ Critical transition at Kc = 1.441
 
 </p>
 
+---
+
 ## 📊 Regime Transition Visualization
 
 This section illustrates the operational principle of **ASHI-CORE**:  
