@@ -73,7 +73,7 @@ The signal is no longer uniformly distributed but encoded into discrete spatial 
 
 ---
 
-## 🧮 Core Metric
+## 🧮 Core Metric ↓
 
 The system is governed by a statistical order parameter:
 
@@ -87,7 +87,7 @@ where:
 
 ---
 
-## ⚠️ Critical Threshold
+## ⚠️ Critical Threshold ↓
 
 Kc ≈ 1.441
 
@@ -96,14 +96,14 @@ Kc ≈ 1.441
 
 ---
 
-## 🔁 Conceptual Flow
+## 🔁 Conceptual Flow ↓
 
 X(t) → Variance Amplification → K → Kc → Regime Transition → Φ(X)
 
 
 ---
 
-## ⚙️ Physical Interpretation
+## ⚙️ Physical Interpretation ↓
 
 ASHI-CORE does not model anomalies as isolated events.  
 Instead, it captures **state transitions** driven by the redistribution of variability across the system.
