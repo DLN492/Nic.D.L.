@@ -9,9 +9,9 @@
 Author: Davide Luca Nicoletti  
 First public release: 2026 
 
+
 ---
 
-### PORTFOLIO
 
 <p align="center">
   <a href="IL_TUO_LINK_ORCID_QUI" target="_blank">
