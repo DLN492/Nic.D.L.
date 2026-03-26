@@ -13,6 +13,11 @@
 Author: Davide Luca Nicoletti  
 First public release: 2026 
 
+### Complex Systems 
+
+  <img src="Logos/1D2EFA7A-1731-41A1-A9FA-1239F26D47FF.gif" width="500">
+</p>   
+
 ---
 
 <p align="center">
@@ -166,8 +171,4 @@ Formalization of invariant structures and regime transitions in high-entropy dyn
   <img src="Logos/0CA7E5DA-553D-4284-8B95-351CA1EEB1C8.gif" width="500">
 </p>
 
-### Complex Systems Modeling 
 
-< p align="center">
-  <img src="Logos/1D2EFA7A-1731-41A1-A9FA-1239F26D47FF.gif" width="500">
-</p>   
