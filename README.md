@@ -13,7 +13,6 @@
   </a>
 </p>
 
-### 📐 
 **Author:** Davide Luca Nicoletti  
 **First Public Release:** 2026  
 **Complex Systems Modeling**
