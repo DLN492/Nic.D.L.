@@ -18,3 +18,25 @@
 
   <img src="Logos/1D2EFA7A-1731-41A1-A9FA-1239F26D47FF.gif" width="500">
 </p>   
+
+
+---
+
+04920∩
+
+Complex Systems  
+Functional Regimes  
+State Transitions  
+Signal Structure  
+Inference Dynamics  
+
+---
+
+λ(t)  
+φ(x) → z → f(z)
+
+---
+
+EEG · fMRI · fNIRS  
+Telemetry · Adaptive Systems  
+
