@@ -15,13 +15,14 @@
 
 ![04920∩](Logos/IMG_9927.png)
 
+---
+
+**EEG · fMRI · fNIRS  
+Telemetry · Adaptive Systems**
 
   <img src="Logos/1D2EFA7A-1731-41A1-A9FA-1239F26D47FF.gif" width="500">
 </p>   
 
 
----
-
-EEG · fMRI · fNIRS  
-Telemetry · Adaptive Systems  
+ 
 
