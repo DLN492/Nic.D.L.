@@ -1,18 +1,23 @@
+**Project Identity & Researcher Verification**
 
-<p align="center">
-  <a href="[([https://orcid.org/0009-0002-2605-7729](https://orcid.org/0009-0002-2605-7729))]" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-iD-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID iD" />
-  
-  </a>
-</p>
+<div align="left">
 
-**Author:** Davide Luca Nicoletti  
-**First Public Release:** 2026  
+#### [**ORCID**](https://orcid.org/0009-0002-2605-7729) **iD**
+
+---
+
+**Author:** Davide Luca Nicoletti
+
+**First Public Release:** 2026
+
 **Complex Systems Modeling**
+
+</div>
+
+---
 
 ## Program
 
-![04920∩](Logos/IMG_9927.png)
 
 ---
 
