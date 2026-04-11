@@ -3,7 +3,6 @@
   <a href="[([https://orcid.org/0009-0002-2605-7729](https://orcid.org/0009-0002-2605-7729))]" target="_blank">
     <img src="https://img.shields.io/badge/ORCID-iD-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID iD" />
   
-  ([Click here](https://orcid.org/0009-0002-2605-7729))
   </a>
 </p>
 
