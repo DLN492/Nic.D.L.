@@ -16,10 +16,7 @@
 
 ---
 
-## Program
-
-
----
+## Research 
 
 **EEG · fMRI · fNIRS  
 Telemetry · Adaptive Systems**
