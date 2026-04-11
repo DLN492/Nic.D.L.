@@ -26,13 +26,12 @@ Telemetry · Adaptive Systems**
 
 ---
 
-### Visualizing the Neural Topology
+### Neural Topology
 
-A conceptual representation of the network topology processed by the framework.
 
 ![Preview](PNG/IMG_0030.jpeg)
 
-***
+
 
 ### How to Access the Technical Abstract
 
