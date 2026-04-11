@@ -32,8 +32,7 @@ Telemetry · Adaptive Systems**
 ![Preview](PNG/IMG_0030.jpeg)
 
 
-
-### How to Access the Technical Abstract
+**How to Access the Technical Abstract**
 
 The core theoretical and operational principles of the **Neurodynamical Regime Intelligence (NRI)** framework are detailed in a dedicated document. This ensures the technical specificities remain distinct from the implementation details.
 
