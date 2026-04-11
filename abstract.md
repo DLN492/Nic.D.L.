@@ -2,7 +2,7 @@
 
 ### [IT] 
 
-**Titolo del Programma:** Universal Omeostatic Anchor & Phase Transition Predictor.
+**Titolo del Programma:** Omeostatic Anchor & Phase Transition Predictor.
 
 **Natura del Progetto:** Ecosistema computazionale minimale e agnostico rispetto all'hardware, progettato per l'identificazione di invarianti asintotici in sistemi stocastici complessi.
 
@@ -16,7 +16,7 @@
 
 ### [EN]
 
-**Program Title:** Universal Omeostatic Anchor & Phase Transition Predictor.
+**Program Title:** Omeostatic Anchor & Phase Transition Predictor.
 
 **Project Nature:** A minimal, hardware-agnostic computational ecosystem designed to identify asymptotic invariants within complex stochastic systems.
 
