@@ -26,20 +26,11 @@ Telemetry · Adaptive Systems**
 
 ---
 
-
-![Preview](PNG/IMG_0030.jpeg)
-
----
-
 ### Visualizing the Neural Topology
 
 A conceptual representation of the network topology processed by the framework.
 
-<div align="center">
-    <img src="Logos/IMG_9677.jpeg" alt="NRI Neural Topology Concept" width="400">
-    <br>
-    <em>Figure 1: Conceptual visualization of the high-dimensional neural manifold.</em>
-</div>
+![Preview](PNG/IMG_0030.jpeg)
 
 ***
 
