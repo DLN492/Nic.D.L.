@@ -20,10 +20,12 @@ Il sistema identifica l'Ancora Omeostatica attraverso l'indice di invarianza $\i
 
 **Valore Predittivo**: Rilevazione della rottura della simmetria con un Lead Time critico (fino a 18.5 min). Il modello non si limita alla probabilità statistica, ma misura la deriva deterministica verso il punto di percolazione ($\iota \to 1.441$), rendendo quantificabile il rischio di disconnessione funzionale prima della sua manifestazione fenomenologica.
 
+---
 
-# [EN] 
+### [EN] 
 
-### Technical Abstract 
+# Technical Abstract 
+
 **NeuroCore is a minimal, hardware-agnostic computational ecosystem engineered to identify asymptotic invariants in complex stochastic systems.**
 
 **Core Mechanism**: By integrating proprietary engines (ASHI and HDE), the framework performs dimensional reduction of data streams (EEG, biological dynamics, software architectures), mapping them into a functional manifold. The system identifies the Homeostatic Anchor via the Invariance Index $\iota$ ($\iota \approx 0.55$), a fundamental metric of structural network stability.
