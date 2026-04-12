@@ -35,7 +35,7 @@ Telemetry · Adaptive Systems**
 
 
 
-### **#Neuroscienza Computazionale**
+
 
 👉 **[View Abstract: abstract.md](abstract.md)**
 
