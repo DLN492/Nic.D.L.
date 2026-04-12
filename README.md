@@ -6,24 +6,18 @@
 
 ---
 
-**Author:** Davide Luca Nicoletti
+**Davide Luca Nicoletti**
+Independent Researcher | Computational Systems
 
-**First Public Release:** 2026
+# Research Focus
 
+Functional state transition analysis in physiological and adaptive systems
 
-</div>
+**Applications**
 
----
+EEG · fMRI · fNIRS
+ICU telemetry · Anesthesia dynamics · Adaptive systems
 
-## Research 
+### Core Work
 
-**🌐 Domain Agnostic Applications**
-
-**EEG · fMRI · fNIRS  
-Telemetry · Adaptive Systems**
-
-
-
-
-
-
+Development of a domain-agnostic framework for detecting regime transitions in multi-parametric signals (NeuroCore)
