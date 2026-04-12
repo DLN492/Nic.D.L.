@@ -1,6 +1,6 @@
 # Abstract
 
-### Neural Topology & Systems Stability
+### Neural Topology
 
 
 
