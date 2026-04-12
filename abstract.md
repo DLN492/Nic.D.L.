@@ -3,7 +3,7 @@
 ### [IT] 
 
 
-**Natura del Progetto:** Ecosistema computazionale minimale e agnostico rispetto all'hardware, progettato per l'identificazione di invarianti asintotici in sistemi stocastici complessi.
+Ecosistema computazionale minimale e agnostico rispetto all'hardware, progettato per l'identificazione di invarianti asintotici in sistemi stocastici complessi.
 
 **Meccanismo Core:** Attraverso l'integrazione dei motori proprietari (**NeuroCore™**, **ASHI**, **HDE**), il framework opera una riduzione dimensionale dei flussi di dati (EEG, sismici, flussi di rete), mappandoli all'interno di un manifold funzionale. Il sistema identifica l'**Ancora Omeostatica ($L \approx 0.55$)** come metrica della stabilità strutturale.
 
@@ -16,7 +16,7 @@
 ### [EN]
 
 
-**Project Nature:** A minimal, hardware-agnostic computational ecosystem designed to identify asymptotic invariants within complex stochastic systems.
+A minimal, hardware-agnostic computational ecosystem designed to identify asymptotic invariants within complex stochastic systems.
 
 **Core Mechanism:** By integrating proprietary engines (**NeuroCore™**, **ASHI**, **HDE**), the framework performs dimensional reduction on data streams (EEG, seismic, network traffic), mapping them into a functional manifold. The system identifies the **Homeostatic Anchor ($L \approx 0.55$)** as the metric for structural stability.
 
