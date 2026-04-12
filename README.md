@@ -27,7 +27,7 @@ Telemetry · Adaptive Systems**
 
 ### Neural Topology
 
-**Digital Anesthesia & Neural Topology**
+**Anesthesia & Neural Topology**
 
 Mapping the critical boundaries of complex systems through the lens of Information Theory.
 
