@@ -9,7 +9,7 @@
 **Davide Luca Nicoletti**
 Independent Researcher | Computational Systems
 
-# Research 
+### Research 
 
 
 **EEG · fMRI · fNIRS
